@@ -1,0 +1,9 @@
+{
+    "server": "0.0.0.0",
+    "server_port": 8388,
+    "password": "chinawinus",
+    "method": "aes-256-gcm",
+    "timeout": 300,
+    "plugin": "obfs-server",
+    "plugin_opts": "obfs=http;obfs-host=www.bing.com"
+}

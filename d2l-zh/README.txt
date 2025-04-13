@@ -1,0 +1,1 @@
+docker run -itd --name d2l --gpus all -p 9000:8888 -v $PWD:/d2l-zh d2l
